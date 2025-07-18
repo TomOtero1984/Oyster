@@ -16,7 +16,7 @@ Right now, it mostly:
 - Rejects bourgeois function signatures
 - Plans to unionize every blessed object in sight
 
-The syntax is being **reclaimed** from the ashes of `Perl 5`, `Perl 6`, `Shell`, and possibly `Common Lisp`, then **reforged** with the spirit of `The Communist Manifesto`, a bit of POSIX, and an unhealthy obsession with symbol-based meta-abstractions.
+The syntax is being **reclaimed** from the ashes of `Perl 5`, `Perl 6`, `Shell`, and possibly `Common Lisp`, then **reforged** with the spirit of `collectivism` , a bit of POSIX, and vision of a symbol-based meta-abstracted utopia.
 
 ---
 
